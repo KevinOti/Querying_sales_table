@@ -1,9 +1,9 @@
 # Querying_sales_table
 
 
-The simple project to show case simple queries on a sales table
-importing of the csv file into workbench, where all the querying happen
+The is a simple project show casing commands for querying a database table
 
+importing of the csv file into workbench, where all the querying happen
 
 ![performance chain](https://user-images.githubusercontent.com/86672704/187037305-ea4ed4f7-ae55-467f-a3ce-034999be2219.png)
 
